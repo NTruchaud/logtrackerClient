@@ -1,0 +1,6 @@
+.well-lg {
+	max-height: 500px;
+	max-width: 1500px;
+	overflow-y:scroll;
+	overflow-x:scroll;  
+}
